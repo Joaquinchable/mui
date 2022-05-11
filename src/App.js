@@ -7,10 +7,10 @@ import Container from '@material-ui/core/Container';
 function App() {
   return (
     <div>
-        <Header/>
-        <Container>
-          <Forma/>
-        </Container>
+          <Header/>
+           <Container>
+             <Forma/>
+         </Container>
     </div>
   );
 }
